@@ -1,8 +1,8 @@
-# Gatsby Starter Ghost
+# Based on Gatsby Starter Ghost. Modified to closely match casper theme.
 
 A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
 
-**Demo:** https://gatsby.ghost.org
+**Demo:** https://szewong.com
 
 &nbsp;
 
