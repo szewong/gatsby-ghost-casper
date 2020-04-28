@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://ghost.szewong.com",
+    "contentApiKey": "2fb63ca5b5d9299c698dafc437"
+  },
+  "production": {
+    "apiUrl": "https://ghost.szewong.com",
+    "contentApiKey": "2fb63ca5b5d9299c698dafc437"
+  }
+}
